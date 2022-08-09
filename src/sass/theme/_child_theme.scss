@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat&display=swap');
+body {
+
+    /* Desktop/Body Copy */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-transform: capitalize;    
+}
+h1 {
+    /* Desktop/H1 */
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 60px;
+    /* identical to box height, or 107% */
+    letter-spacing: -1px;
+    text-transform: capitalize;
+}
+h2 {
+ 
+    /* Desktop/H2 */
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 52px;
+    /* or 108% */
+    letter-spacing: -1px;
+    text-transform: capitalize;
+}
+h3 {
+    
+    /* Desktop/H3 */
+    font-family: 'Comfortaa';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 44px;
+    /* or 110% */
+    letter-spacing: -1px;
+    text-transform: capitalize;
+
+}
